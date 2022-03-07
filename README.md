@@ -1,3 +1,6 @@
+美团技术参考：
+https://tech.meituan.com/2021/09/16/operational-logbook.html
+
 # log-record
 
 使用注解优雅的记录系统日志，操作日志等，支持SpEL表达式，自定义上下文，自定义函数，并支持将日志消息传递至消息队列。
